@@ -26,6 +26,10 @@ def test_content(response):
     # from bs4 import BeautifulSoup
     # assert 'GitHub' in BeautifulSoup(response.content).title.string
 
+def test_addition():
+    result=sept_example.addition(2,3)
+    assert result==5
+    assert sept_example.c==9
 
 def test_command_line_interface():
     """Test the CLI."""
