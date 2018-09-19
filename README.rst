@@ -18,6 +18,8 @@ sept_example
      :target: https://pyup.io/repos/github/dilnoza92/sept_example/
      :alt: Updates
 
+.. image:: https://coveralls.io/repos/github/dilnoza92/sept_example/badge.svg?branch=master
+   :target: https://coveralls.io/github/dilnoza92/sept_example?branch=master
 
 
 class travis example
